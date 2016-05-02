@@ -1,4 +1,4 @@
-#Versa News
+#Versa News (Vice Media API)
 
 
 ##About
@@ -16,16 +16,12 @@ Versa News allows users to browse through their favorite Vice articles and video
 - Animations between views.
 - NavDrawer allows for quick navigation between tabs.
 
-
-
-
 ##Bugs
-. Minor layout issues when using different phones. 
+- Minor layout issues when using different phones.
 
-. Memory issues present (sometimes) when rapidly scrolling. 
+- Memory issues present (sometimes) when rapidly scrolling.
 
-. Twitter's share feature is missing direct links because of lack of 'whitelisting' from Twitter. (May be implemented in the future)
+- Twitter's share feature is missing direct links because of lack of 'whitelisting' from Twitter. (May be implemented in the future)
 
-Video of app: https://github.com/roberrera/Project-3/blob/master/Versa_News/Screenshots/Versa%20News%20March%2011%20(2).mp4
-![Screenshots](https://github.com/roberrera/Project-3/blob/master/Versa_News/Screenshots/device-2016-03-11-143559.png)
-
+[Video of app](https://github.com/roberrera/Project-3/blob/master/Versa_News/Screenshots/Versa-News-March-11.mp4)
+![Screenshots](https://github.com/roberrera/Project-3/blob/master/Versa_News/Screenshots/device-2016-03-11-143559-smaller.png)
