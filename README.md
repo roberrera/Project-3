@@ -23,5 +23,5 @@ Versa News allows users to browse through their favorite Vice articles and video
 
 - Twitter's share feature is missing direct links because of lack of 'whitelisting' from Twitter. (May be implemented in the future)
 
-[Video of app](https://github.com/roberrera/Project-3/blob/master/Versa_News/Screenshots/Versa-News-March-11.mp4)
-![Screenshots](https://github.com/roberrera/Project-3/blob/master/Versa_News/Screenshots/device-2016-03-11-143559-smaller.png)
+[Video of app](https://www.youtube.com/watch?v=eJj-XrrLMSY)
+![Screenshots](https://github.com/roberrera/Project-3/blob/homepage/Versa_News/Screenshots/device-2016-03-11-143559-smaller.png)
